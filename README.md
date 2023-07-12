@@ -1,3 +1,7 @@
+### This is a wordle clone react app used for playing wordle game.
+
+![Wordle Clone landing page Image](./public/readmeImage.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
